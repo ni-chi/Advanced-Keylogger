@@ -1,2 +1,2 @@
-# Keylogger
-Basic Keylogger which will track what the keybord types in C++
+# Keylogger [ONGOING]
+Basic Keylogger which will track what the keyboard types (written in C++)
